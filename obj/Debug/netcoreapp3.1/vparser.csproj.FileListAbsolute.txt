@@ -1,0 +1,14 @@
+/home/dev/Projects/vparser/bin/Debug/netcoreapp3.1/vparser
+/home/dev/Projects/vparser/bin/Debug/netcoreapp3.1/vparser.deps.json
+/home/dev/Projects/vparser/bin/Debug/netcoreapp3.1/vparser.runtimeconfig.json
+/home/dev/Projects/vparser/bin/Debug/netcoreapp3.1/vparser.runtimeconfig.dev.json
+/home/dev/Projects/vparser/bin/Debug/netcoreapp3.1/vparser.dll
+/home/dev/Projects/vparser/bin/Debug/netcoreapp3.1/vparser.pdb
+/home/dev/Projects/vparser/bin/Debug/netcoreapp3.1/HtmlAgilityPack.dll
+/home/dev/Projects/vparser/bin/Debug/netcoreapp3.1/System.Xml.XPath.XmlDocument.dll
+/home/dev/Projects/vparser/obj/Debug/netcoreapp3.1/vparser.csprojAssemblyReference.cache
+/home/dev/Projects/vparser/obj/Debug/netcoreapp3.1/vparser.AssemblyInfoInputs.cache
+/home/dev/Projects/vparser/obj/Debug/netcoreapp3.1/vparser.AssemblyInfo.cs
+/home/dev/Projects/vparser/obj/Debug/netcoreapp3.1/vparser.csproj.CopyComplete
+/home/dev/Projects/vparser/obj/Debug/netcoreapp3.1/vparser.dll
+/home/dev/Projects/vparser/obj/Debug/netcoreapp3.1/vparser.pdb
